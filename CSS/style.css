@@ -64,7 +64,7 @@
 #home::before{
     content: "";
     position: absolute;
-    background: url(/WebPro2/Home.jpg) no-repeat center center/cover;
+    background: url(Home.jpg) no-repeat center center/cover;
     width: 100%;
     height: 564px;
     top: 0px;
@@ -161,7 +161,7 @@
 #brands-section::before{
     content: "";
     position: absolute;
-    background: url(/WebPro2/Background.jpg) no-repeat center center/cover;
+    background: url(Background.jpg) no-repeat center center/cover;
     width: 100%;
     height: 100%;
     z-index: -1;
@@ -192,7 +192,7 @@
     position: absolute;
     width: 100%;
     height: 100%;
-    background: url(/WebPro2/contact.jpg) no-repeat center center 
+    background: url(contact.jpg) no-repeat center center 
     /cover;
     z-index: -1;
     opacity: .6;
